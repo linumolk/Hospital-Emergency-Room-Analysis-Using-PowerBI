@@ -16,7 +16,8 @@ The objective of this project is to analyze hospital emergency room data using P
 ---
 
 ### 📁About Dataset
-The dataset contained about 9.2k+ patients records
+The dataset contained about 9.2k+ patients records.
+
 Columns Included:
    - Patient Id
    - Patient Admission
