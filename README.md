@@ -18,19 +18,19 @@ The objective of this project is to analyze hospital emergency room data using P
 ### 📁About Dataset
 The dataset contained about 9.2k+ patients records
 Columns Included:
-       - Patient Id
-       - Patient Admission
-       - Date	
-       - Patient First Inital	
-       - Patient Last Name	
-       - Patient Gender	
-       - Patient Age	
-       - Patient Race	
-       - Department Referral	
-       - Patient Admission Flag	
-       - Patient Satisfaction Score	
-       - Patient Waittime	
-       - Patients CM
+   - Patient Id
+   - Patient Admission
+   - Date
+   - Patient First Inital
+   - Patient Last Name
+   - Patient Gender
+   - Patient Age
+   - Patient Race
+   - Department Referral
+   - Patient Admission Flag
+   - Patient Satisfaction Score
+   - Patient Waittime
+   - Patients CM
 
 ---
 
